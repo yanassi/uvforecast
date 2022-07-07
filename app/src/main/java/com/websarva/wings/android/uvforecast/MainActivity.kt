@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         private const val DEBUG_TAG ="Async"
         private const val UVIINFO_URL = "https://api.openweathermap.org/data/3.0/onecall?"
-        private const val APP_ID = "8af69fc3d9673922ca2508bad454b6fe"
+        private const val APP_ID = "~"
 
     }
 
