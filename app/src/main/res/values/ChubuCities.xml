@@ -1,0 +1,374 @@
+<resources>
+
+    <string-array name="新潟県">
+
+        <item>阿賀町</item>
+        <item>阿賀野市</item>
+        <item>粟島浦村</item>
+        <item>出雲崎町</item>
+        <item>糸魚川市</item>
+        <item>魚沼市</item>
+        <item>小千谷市</item>
+        <item>柏崎市</item>
+        <item>加茂市</item>
+        <item>刈羽村</item>
+        <item>五泉市</item>
+        <item>佐渡市</item>
+        <item>三条市</item>
+        <item>新発田市</item>
+        <item>上越市</item>
+        <item>聖籠町</item>
+        <item>関川村</item>
+        <item>胎内市</item>
+        <item>田上町</item>
+        <item>津南町</item>
+        <item>燕市</item>
+        <item>十日町市</item>
+        <item>長岡市</item>
+        <item>新潟市</item>
+        <item>見附市</item>
+        <item>南魚沼市</item>
+        <item>妙高市</item>
+        <item>村上市</item>
+        <item>弥彦村</item>
+        <item>湯沢町</item>
+        
+    </string-array>
+    
+    
+    <string-array name="富山県">
+
+        <item>朝日町</item>
+        <item>射水市</item>
+        <item>魚津市</item>
+        <item>小矢部市</item>
+        <item>上市町</item>
+        <item>黒部市</item>
+        <item>高岡市</item>
+        <item>立山町</item>
+        <item>砺波市</item>
+        <item>富山市</item>
+        <item>滑川市</item>
+        <item>南砺市</item>
+        <item>入善町</item>
+        <item>氷見市</item>
+        <item>舟橋村</item>
+        
+    </string-array>
+    
+    
+    <string-array name="石川県">
+
+        <item>穴水町</item>
+        <item>内灘町</item>
+        <item>加賀市</item>
+        <item>金沢市</item>
+        <item>かほく市</item>
+        <item>川北町</item>
+        <item>小松市</item>
+        <item>志賀町</item>
+        <item>珠洲市</item>
+        <item>津幡町</item>
+        <item>中能登町</item>
+        <item>七尾市</item>
+        <item>能美市</item>
+        <item>能登町</item>
+        <item>野々市市</item>
+        <item>羽咋市</item>
+        <item>白山市</item>
+        <item>宝達志水町</item>
+        <item>輪島市</item>
+
+    </string-array>
+    
+    
+    <string-array name="福井県">
+
+        <item>あわら市</item>
+        <item>池田町</item>
+        <item>永平寺町</item>
+        <item>越前市</item>
+        <item>越前町</item>
+        <item>おおい町</item>
+        <item>大野市</item>
+        <item>小浜市</item>
+        <item>勝山市</item>
+        <item>坂井市</item>
+        <item>鯖江市</item>
+        <item>高浜町</item>
+        <item>敦賀市</item>
+        <item>福井市</item>
+        <item>南越前町</item>
+        <item>美浜町</item>
+        <item>若狭町</item>
+
+    </string-array>
+
+
+    <string-array name="山梨県">
+
+        <item>市川三郷町</item>
+        <item>上野原市</item>
+        <item>大月市</item>
+        <item>忍野村</item>
+        <item>甲斐市</item>
+        <item>甲州市</item>
+        <item>甲府市</item>
+        <item>小菅村</item>
+        <item>昭和町</item>
+        <item>丹波山村</item>
+        <item>中央市</item>
+        <item>都留市</item>
+        <item>道志村</item>
+        <item>鳴沢村</item>
+        <item>南部町</item>
+        <item>西桂町</item>
+        <item>韮崎市</item>
+        <item>早川町</item>
+        <item>笛吹市</item>
+        <item>富士河口湖町</item>
+        <item>富士川町</item>
+        <item>富士吉田市</item>
+        <item>北杜市</item>
+        <item>南アルプス市</item>
+        <item>身延町</item>
+        <item>山中湖村</item>
+        <item>山梨市</item>
+        
+    </string-array>
+    
+    
+    <string-array name="長野県">
+
+        <item>青木村</item>
+        <item>上松町</item>
+        <item>朝日村</item>
+        <item>安曇野市</item>
+        <item>阿智村</item>
+        <item>阿南町</item>
+        <item>飯島町</item>
+        <item>飯綱町</item>
+        <item>飯田市</item>
+        <item>飯山市</item>
+        <item>生坂村</item>
+        <item>池田町</item>
+        <item>伊那市</item>
+        <item>上田市</item>
+        <item>売木村</item>
+        <item>王滝村</item>
+        <item>大桑村</item>
+        <item>大鹿村</item>
+        <item>大町市</item>
+        <item>岡谷市</item>
+        <item>小川村</item>
+        <item>小谷村</item>
+        <item>小布施町</item>
+        <item>麻績村</item>
+        <item>軽井沢町</item>
+        <item>川上村</item>
+        <item>木島平村</item>
+        <item>木祖村</item>
+        <item>木曽町</item>
+        <item>北相木村</item>
+        <item>小海町</item>
+        <item>駒ケ根市</item>
+        <item>小諸市</item>
+        <item>栄村</item>
+        <item>坂城町</item>
+        <item>佐久市</item>
+        <item>佐久穂町</item>
+        <item>塩尻市</item>
+        <item>信濃町</item>
+        <item>下条村</item>
+        <item>下諏訪町</item>
+        <item>須坂市</item>
+        <item>諏訪市</item>
+        <item>喬木村</item>
+        <item>高森町</item>
+        <item>高山村</item>
+        <item>辰野町</item>
+        <item>立科町</item>
+        <item>筑北村</item>
+        <item>千曲市</item>
+        <item>茅野市</item>
+        <item>天竜村</item>
+        <item>東御市</item>
+        <item>豊丘村</item>
+        <item>中川村</item>
+        <item>中野市</item>
+        <item>長野市</item>
+        <item>長和町</item>
+        <item>南木曽町</item>
+        <item>根羽村</item>
+        <item>野沢温泉村</item>
+        <item>白馬村</item>
+        <item>原村</item>
+        <item>平谷村</item>
+        <item>富士見町</item>
+        <item>松川町</item>
+        <item>松川村</item>
+        <item>松本市</item>
+        <item>南相木村</item>
+        <item>南牧村</item>
+        <item>南箕輪村</item>
+        <item>箕輪町</item>
+        <item>宮田村</item>
+        <item>御代田町</item>
+        <item>泰阜村</item>
+        <item>山形村</item>
+        <item>山ノ内町</item>
+
+    </string-array>
+
+
+    <string-array name="岐阜県">
+
+        <item>安八町</item>
+        <item>池田町</item>
+        <item>揖斐川町</item>
+        <item>恵那市</item>
+        <item>大垣市</item>
+        <item>大野町</item>
+        <item>海津市</item>
+        <item>各務原市</item>
+        <item>笠松町</item>
+        <item>可児市</item>
+        <item>川辺町</item>
+        <item>北方町</item>
+        <item>岐南町</item>
+        <item>岐阜市</item>
+        <item>郡上市</item>
+        <item>下呂市</item>
+        <item>神戸町</item>
+        <item>坂祝町</item>
+        <item>白川町</item>
+        <item>白川村</item>
+        <item>関市</item>
+        <item>関ケ原町</item>
+        <item>高山市</item>
+        <item>多治見市</item>
+        <item>垂井町</item>
+        <item>土岐市</item>
+        <item>富加町</item>
+        <item>中津川市</item>
+        <item>羽島市</item>
+        <item>東白川村</item>
+        <item>飛騨市</item>
+        <item>七宗町</item>
+        <item>瑞浪市</item>
+        <item>瑞穂市</item>
+        <item>御嵩町</item>
+        <item>美濃市</item>
+        <item>美濃加茂市</item>
+        <item>本巣市</item>
+        <item>八百津町</item>
+        <item>山県市</item>
+        <item>養老町</item>
+        <item>輪之内町</item>
+
+    </string-array>
+
+
+    <string-array name="静岡県">
+
+        <item>熱海市</item>
+        <item>伊豆市</item>
+        <item>伊豆の国市</item>
+        <item>伊東市</item>
+        <item>磐田市</item>
+        <item>御前崎市</item>
+        <item>小山町</item>
+        <item>掛川市</item>
+        <item>河津町</item>
+        <item>川根本町</item>
+        <item>函南町</item>
+        <item>菊川市</item>
+        <item>湖西市</item>
+        <item>御殿場市</item>
+        <item>静岡市</item>
+        <item>島田市</item>
+        <item>清水町</item>
+        <item>下田市</item>
+        <item>裾野市</item>
+        <item>長泉町</item>
+        <item>西伊豆町</item>
+        <item>沼津市</item>
+        <item>浜松市</item>
+        <item>東伊豆町</item>
+        <item>袋井市</item>
+        <item>富士市</item>
+        <item>藤枝市</item>
+        <item>富士宮市</item>
+        <item>牧之原市</item>
+        <item>松崎町</item>
+        <item>三島市</item>
+        <item>南伊豆町</item>
+        <item>森町</item>
+        <item>焼津市</item>
+        <item>吉田町</item>
+
+    </string-array>
+
+
+    <string-array name="愛知県">
+
+        <item>愛西市</item>
+        <item>阿久比町</item>
+        <item>あま市</item>
+        <item>安城市</item>
+        <item>一宮市</item>
+        <item>稲沢市</item>
+        <item>犬山市</item>
+        <item>岩倉市</item>
+        <item>大口町</item>
+        <item>大治町</item>
+        <item>大府市</item>
+        <item>岡崎市</item>
+        <item>尾張旭市</item>
+        <item>春日井市</item>
+        <item>蟹江町</item>
+        <item>蒲郡市</item>
+        <item>刈谷市</item>
+        <item>北名古屋市</item>
+        <item>清須市</item>
+        <item>幸田町</item>
+        <item>江南市</item>
+        <item>小牧市</item>
+        <item>設楽町</item>
+        <item>新城市</item>
+        <item>瀬戸市</item>
+        <item>高浜市</item>
+        <item>武豊町</item>
+        <item>田原市</item>
+        <item>知多市</item>
+        <item>知立市</item>
+        <item>津島市</item>
+        <item>東栄町</item>
+        <item>東海市</item>
+        <item>東郷町</item>
+        <item>常滑市</item>
+        <item>飛島村</item>
+        <item>豊明市</item>
+        <item>豊川市</item>
+        <item>豊田市</item>
+        <item>豊根村</item>
+        <item>豊橋市</item>
+        <item>豊山町</item>
+        <item>長久手市</item>
+        <item>名古屋市</item>
+        <item>西尾市</item>
+        <item>日進市</item>
+        <item>半田市</item>
+        <item>東浦町</item>
+        <item>扶桑町</item>
+        <item>碧南市</item>
+        <item>南知多町</item>
+        <item>美浜町</item>
+        <item>みよし市</item>
+        <item>弥富市</item>
+
+    </string-array>
+
+
+
+</resources>

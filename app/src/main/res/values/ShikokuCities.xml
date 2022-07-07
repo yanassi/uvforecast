@@ -1,0 +1,121 @@
+<resources>
+
+    <string-array name="徳島県">
+
+        <item>藍住町</item>
+        <item>阿南市</item>
+        <item>阿波市</item>
+        <item>石井町</item>
+        <item>板野町</item>
+        <item>海陽町</item>
+        <item>勝浦町</item>
+        <item>上板町</item>
+        <item>上勝町</item>
+        <item>神山町</item>
+        <item>北島町</item>
+        <item>小松島市</item>
+        <item>佐那河内村</item>
+        <item>つるぎ町</item>
+        <item>徳島市</item>
+        <item>那賀町</item>
+        <item>鳴門市</item>
+        <item>東みよし町</item>
+        <item>松茂町</item>
+        <item>美波町</item>
+        <item>美馬市</item>
+        <item>三好市</item>
+        <item>牟岐町</item>
+        <item>吉野川市</item>
+        
+    </string-array>
+    
+    
+    <string-array name="香川県">
+
+        <item>綾川町</item>
+        <item>宇多津町</item>
+        <item>観音寺市</item>
+        <item>琴平町</item>
+        <item>坂出市</item>
+        <item>さぬき市</item>
+        <item>小豆島町</item>
+        <item>善通寺市</item>
+        <item>高松市</item>
+        <item>多度津町</item>
+        <item>土庄町</item>
+        <item>直島町</item>
+        <item>東かがわ市</item>
+        <item>丸亀市</item>
+        <item>まんのう町</item>
+        <item>三木町</item>
+        <item>三豊市</item>
+
+    </string-array>
+
+
+    <string-array name="愛媛県">
+
+        <item>愛南町</item>
+        <item>伊方町</item>
+        <item>今治市</item>
+        <item>伊予市</item>
+        <item>内子町</item>
+        <item>宇和島市</item>
+        <item>大洲市</item>
+        <item>上島町</item>
+        <item>久万高原町</item>
+        <item>鬼北町</item>
+        <item>西条市</item>
+        <item>四国中央市</item>
+        <item>西予市</item>
+        <item>東温市</item>
+        <item>砥部町</item>
+        <item>新居浜市</item>
+        <item>松前町</item>
+        <item>松野町</item>
+        <item>松山市</item>
+        <item>八幡浜市</item>
+
+    </string-array>
+    
+    
+    <string-array name="高知県">
+
+        <item>安芸市</item>
+        <item>いの町</item>
+        <item>馬路村</item>
+        <item>大川村</item>
+        <item>大月町</item>
+        <item>大豊町</item>
+        <item>越知町</item>
+        <item>香美市</item>
+        <item>北川村</item>
+        <item>黒潮町</item>
+        <item>芸西村</item>
+        <item>高知市</item>
+        <item>香南市</item>
+        <item>佐川町</item>
+        <item>四万十市</item>
+        <item>四万十町</item>
+        <item>宿毛市</item>
+        <item>須崎市</item>
+        <item>田野町</item>
+        <item>津野町</item>
+        <item>東洋町</item>
+        <item>土佐市</item>
+        <item>土佐町</item>
+        <item>土佐清水市</item>
+        <item>中土佐町</item>
+        <item>奈半利町</item>
+        <item>南国市</item>
+        <item>仁淀川町</item>
+        <item>日高村</item>
+        <item>三原村</item>
+        <item>室戸市</item>
+        <item>本山町</item>
+        <item>安田町</item>
+        <item>梼原町</item>
+
+    </string-array>
+
+</resources>

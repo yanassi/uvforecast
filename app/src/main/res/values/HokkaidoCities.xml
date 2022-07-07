@@ -1,0 +1,230 @@
+<resources>
+    <string-array name="北海道">
+        <item>愛別町</item>
+        <item>赤井川村</item>
+        <item>赤平市</item>
+        <item>旭川市</item>
+        <item>芦別市</item>
+        <item>足寄町</item>
+        <item>厚岸町</item>
+        <item>厚沢部町</item>
+        <item>厚真町</item>
+        <item>厚沢部町</item>
+        <item>厚真町</item>
+        <item>網走町</item>
+        <item>安平町</item>
+
+        <item>池田町</item>
+        <item>石狩市</item>
+        <item>今金町</item>
+        <item>岩内町</item>
+        <item>岩見沢市</item>
+
+        <item>歌志内市</item>
+        <item>浦臼町</item>
+        <item>浦河町</item>
+        <item>浦幌町</item>
+        <item>雨竜町</item>
+
+        <item>江差町</item>
+        <item>枝幸町</item>
+        <item>恵庭市</item>
+        <item>江別市</item>
+        <item>えりも町</item>
+        <item>遠軽町</item>
+        <item>遠別町</item>
+
+        <item>雄武町</item>
+        <item>大空町</item>
+        <item>奥尻町</item>
+        <item>置戸町</item>
+        <item>興部町</item>
+        <item>長万部町</item>
+        <item>小樽市</item>
+        <item>音威子府村</item>
+        <item>音更町</item>
+        <item>乙部町</item>
+        <item>帯広市</item>
+        <item>小平町</item>
+
+        <item>上川町</item>
+        <item>上士幌町</item>
+        <item>上砂川町</item>
+        <item>上ノ国町</item>
+        <item>上富良野町</item>
+        <item>神恵内村</item>
+
+        <item>木古内町</item>
+        <item>北広島市</item>
+        <item>北見市</item>
+        <item>喜茂別町</item>
+        <item>京極町</item>
+        <item>共和町</item>
+        <item>清里町</item>
+
+        <item>釧路市</item>
+        <item>釧路町</item>
+        <item>倶知安町</item>
+        <item>栗山町</item>
+        <item>黒松内町</item>
+        <item>訓子府町</item>
+
+        <item>剣淵町</item>
+
+        <item>小清水町</item>
+
+        <item>札幌市</item>
+        <item>更別村</item>
+        <item>様似町</item>
+        <item>猿払村</item>
+        <item>佐呂間町</item>
+
+        <item>鹿追町</item>
+        <item>鹿部町</item>
+        <item>標茶町</item>
+        <item>士別市</item>
+        <item>標津町</item>
+        <item>士幌町</item>
+        <item>島牧村</item>
+        <item>清水町</item>
+        <item>占冠村</item>
+        <item>下川町</item>
+        <item>積丹町</item>
+        <item>斜里町</item>
+        <item>初山別村</item>
+        <item>白老町</item>
+        <item>白糠町</item>
+        <item>知内町</item>
+        <item>新篠津村</item>
+        <item>新得町</item>
+        <item>新十津川町</item>
+        <item>新ひだか町</item>
+
+        <item>寿都町</item>
+        <item>砂川市</item>
+
+        <item>せたな町</item>
+
+        <item>壮瞥町町</item>
+
+        <item>大樹町</item>
+        <item>鷹栖町</item>
+        <item>滝川市</item>
+        <item>滝上町</item>
+        <item>伊達市</item>
+
+
+        <item>秩父別町</item>
+        <item>千歳市</item>
+
+        <item>月形町</item>
+        <item>津別町</item>
+        <item>鶴居村</item>
+
+        <item>天塩町</item>
+        <item>弟子屈町</item>
+
+        <item>当別町</item>
+        <item>当麻町</item>
+        <item>洞爺湖町</item>
+        <item>苫小牧市</item>
+        <item>苫前町</item>
+        <item>泊村</item>
+        <item>豊浦町</item>
+        <item>豊頃町</item>
+        <item>豊富町</item>
+
+        <item>奈井江町</item>
+        <item>中川町</item>
+        <item>中札内村</item>
+        <item>中標津町</item>
+        <item>中頓別町</item>
+        <item>長沼町</item>
+        <item>中富良野町</item>
+        <item>七飯町</item>
+        <item>名寄市</item>
+        <item>南幌町</item>
+
+        <item>新冠町</item>
+        <item>仁木町</item>
+        <item>西興部村</item>
+        <item>ニセコ町</item>
+
+        <item>沼田町</item>
+
+        <item>根室市</item>
+
+        <item>登別市</item>
+
+        <item>函館市</item>
+        <item>羽幌町</item>
+        <item>浜頓別町</item>
+        <item>浜中町</item>
+
+        <item>美瑛市</item>
+        <item>東神楽町</item>
+        <item>東川町</item>
+        <item>日高町</item>
+        <item>比布町</item>
+        <item>美唄市</item>
+        <item>美深町</item>
+        <item>美幌町</item>
+        <item>平取町</item>
+        <item>広尾町</item>
+
+        <item>深川市</item>
+        <item>福島町</item>
+        <item>富良野市</item>
+        <item>古平町</item>
+
+        <item>別海町</item>
+
+        <item>北斗市</item>
+        <item>北竜町</item>
+        <item>幌加内町</item>
+        <item>幌延町</item>
+        <item>本別町</item>
+
+        <item>幕別町</item>
+        <item>増毛町</item>
+        <item>真狩村</item>
+        <item>松前町</item>
+
+        <item>三笠市</item>
+        <item>南富良野町</item>
+
+        <item>むかわ町</item>
+        <item>室蘭市</item>
+
+        <item>芽室町</item>
+
+        <item>妹背牛町</item>
+        <item>森町</item>
+        <item>紋別市</item>
+
+        <item>八雲町</item>
+
+        <item>夕張市</item>
+        <item>湧別町</item>
+        <item>由仁町</item>
+
+        <item>余市町</item>
+
+        <item>羅臼町</item>
+        <item>蘭越町</item>
+
+        <item>陸別町</item>
+        <item>利尻町</item>
+        <item>利尻富士町</item>
+
+        <item>留寿都村</item>
+        <item>留萌市</item>
+
+        <item>礼文町</item>
+
+        <item>稚内市</item>
+        <item>和寒町</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,359 @@
+<resources>
+
+    <string-array name = "茨城県">
+
+        <item>阿見町</item>
+        <item>石岡市</item>
+        <item>潮来市</item>
+        <item>稲敷市</item>
+        <item>茨城町</item>
+        <item>牛久市</item>
+        <item>大洗町</item>
+        <item>小美玉市</item>
+        <item>笠間市</item>
+        <item>鹿嶋市</item>
+        <item>かすみがうら市</item>
+        <item>神栖市</item>
+        <item>河内町</item>
+        <item>北茨城市</item>
+        <item>古河市</item>
+        <item>五霞町</item>
+        <item>境町</item>
+        <item>桜川市</item>
+        <item>下妻市</item>
+        <item>常総市</item>
+        <item>城里町</item>
+        <item>大子町</item>
+        <item>高萩市</item>
+        <item>筑西市</item>
+        <item>つくば市</item>
+        <item>つくばみらい市</item>
+        <item>土浦市</item>
+        <item>東海村</item>
+        <item>利根町</item>
+        <item>取手市</item>
+        <item>那珂市</item>
+        <item>行方市</item>
+        <item>坂東市</item>
+        <item>日立市</item>
+        <item>常陸太田市</item>
+        <item>常陸大宮市</item>
+        <item>ひたちなか市</item>
+        <item>鉾田市</item>
+        <item>水戸市</item>
+        <item>美浦村</item>
+        <item>守谷市</item>
+        <item>八千代町</item>
+        <item>結城市</item>
+        <item>竜ケ崎市</item>
+
+    </string-array>
+
+    <string-array name="栃木県">
+
+        <item>足利市</item>
+        <item>市貝町</item>
+        <item>宇都宮市</item>
+        <item>大田原市</item>
+        <item>小山市</item>
+        <item>鹿沼市</item>
+        <item>上三川町</item>
+        <item>さくら市</item>
+        <item>佐野市</item>
+        <item>塩谷町</item>
+        <item>下野市</item>
+        <item>高根沢町</item>
+        <item>栃木市</item>
+        <item>那珂川町</item>
+        <item>那須町</item>
+        <item>那須烏山市</item>
+        <item>那須塩原市</item>
+        <item>日光市</item>
+        <item>野木町</item>
+        <item>芳賀町</item>
+        <item>益子町</item>
+        <item>壬生町</item>
+        <item>真岡市</item>
+        <item>茂木町</item>
+        <item>矢板市</item>
+
+    </string-array>
+
+
+    <string-array name="群馬県">
+
+        <item>安中市</item>
+        <item>伊勢崎市</item>
+        <item>板倉町</item>
+        <item>上野村</item>
+        <item>邑楽町</item>
+        <item>大泉町</item>
+        <item>太田市</item>
+        <item>片品村</item>
+        <item>川場村</item>
+        <item>神流町</item>
+        <item>甘楽町</item>
+        <item>桐生市</item>
+        <item>草津町</item>
+        <item>渋川市</item>
+        <item>下仁田町</item>
+        <item>昭和村</item>
+        <item>榛東村</item>
+        <item>高崎市</item>
+        <item>高山村</item>
+        <item>館林市</item>
+        <item>玉村町</item>
+        <item>千代田町</item>
+        <item>嬬恋村</item>
+        <item>富岡市</item>
+        <item>中之条町</item>
+        <item>長野原町</item>
+        <item>南牧村</item>
+        <item>沼田市</item>
+        <item>東吾妻町</item>
+        <item>藤岡市</item>
+        <item>前橋市</item>
+        <item>みどり市</item>
+        <item>みなかみ町</item>
+        <item>明和町</item>
+        <item>吉岡町</item>
+
+    </string-array>
+
+
+    <string-array name="埼玉県">
+
+        <item>上尾市</item>
+        <item>朝霞市</item>
+        <item>伊奈町</item>
+        <item>入間市</item>
+        <item>小鹿野町</item>
+        <item>小川町</item>
+        <item>桶川市</item>
+        <item>越生町</item>
+        <item>春日部市</item>
+        <item>加須市</item>
+        <item>神川町</item>
+        <item>上里町</item>
+        <item>川口市</item>
+        <item>川越市</item>
+        <item>川島町</item>
+        <item>北本市</item>
+        <item>行田市</item>
+        <item>久喜市</item>
+        <item>熊谷市</item>
+        <item>鴻巣市</item>
+        <item>越谷市</item>
+        <item>さいたま市</item>
+        <item>坂戸市</item>
+        <item>幸手市</item>
+        <item>狭山市</item>
+        <item>志木市</item>
+        <item>白岡市</item>
+        <item>杉戸町</item>
+        <item>草加市</item>
+        <item>秩父市</item>
+        <item>鶴ヶ島市</item>
+        <item>ときがわ町</item>
+        <item>所沢市</item>
+        <item>戸田市</item>
+        <item>長瀞町</item>
+        <item>滑川町</item>
+        <item>新座市</item>
+        <item>蓮田市</item>
+        <item>鳩山町</item>
+        <item>羽生市</item>
+        <item>飯能市</item>
+        <item>東秩父村</item>
+        <item>東松山市</item>
+        <item>日高市</item>
+        <item>深谷市</item>
+        <item>富士見市</item>
+        <item>ふじみ野市</item>
+        <item>本庄市</item>
+        <item>松伏町</item>
+        <item>三郷市</item>
+        <item>美里町</item>
+        <item>皆野町</item>
+        <item>宮代町</item>
+        <item>三芳町</item>
+        <item>毛呂山町</item>
+        <item>八潮市</item>
+        <item>横瀬町</item>
+        <item>吉川市</item>
+        <item>吉見町</item>
+        <item>寄居町</item>
+        <item>嵐山町</item>
+        <item>和光市</item>
+        <item>蕨市</item>
+
+    </string-array>
+
+
+    <string-array name="千葉県">
+
+        <item>旭市</item>
+        <item>我孫子市</item>
+        <item>いすみ市</item>
+        <item>市川市</item>
+        <item>一宮町</item>
+        <item>市原市</item>
+        <item>印西市</item>
+        <item>浦安市</item>
+        <item>大網白里市</item>
+        <item>大多喜町</item>
+        <item>御宿町</item>
+        <item>柏市</item>
+        <item>勝浦市</item>
+        <item>香取市</item>
+        <item>鎌ケ谷市</item>
+        <item>鴨川市</item>
+        <item>木更津市</item>
+        <item>君津市</item>
+        <item>鋸南町</item>
+        <item>九十九里町</item>
+        <item>神崎町</item>
+        <item>栄町</item>
+        <item>佐倉市</item>
+        <item>山武市</item>
+        <item>酒々井町</item>
+        <item>芝山町</item>
+        <item>白井市</item>
+        <item>白子町</item>
+        <item>匝瑳市</item>
+        <item>袖ヶ浦市</item>
+        <item>多古町</item>
+        <item>館山市</item>
+        <item>千葉市</item>
+        <item>銚子市</item>
+        <item>長生村</item>
+        <item>長南町</item>
+        <item>東金市</item>
+        <item>東庄町</item>
+        <item>富里市</item>
+        <item>長柄町</item>
+        <item>流山市</item>
+        <item>習志野市</item>
+        <item>成田市</item>
+        <item>野田市</item>
+        <item>富津市</item>
+        <item>船橋市</item>
+        <item>松戸市</item>
+        <item>南房総市</item>
+        <item>睦沢町</item>
+        <item>茂原市</item>
+        <item>八街市</item>
+        <item>八千代市</item>
+        <item>横芝光町</item>
+        <item>四街道市</item>
+
+    </string-array>
+
+
+    <string-array name="東京都">
+
+        <item>荒川区</item>
+        <item>足立区</item>
+        <item>板橋区</item>
+        <item>江戸川区</item>
+        <item>大田区</item>
+        <item>葛飾区</item>
+        <item>北区</item>
+        <item>江東区</item>
+        <item>新宿区</item>
+        <item>品川区</item>
+        <item>渋谷区</item>
+        <item>墨田区</item>
+        <item>杉並区</item>
+        <item>世田谷区</item>
+        <item>台東区</item>
+        <item>千代田区</item>
+        <item>中央区</item>
+        <item>豊島区</item>
+        <item>中野区</item>
+        <item>練馬区</item>
+        <item>文京区</item>
+        <item>港区</item>
+        <item>目黒区</item>
+        <item>青ケ島村</item>
+        <item>昭島市</item>
+        <item>あきる野市</item>、
+        <item>稲城市</item>
+        <item>青梅市</item>
+        <item>大島町</item>
+        <item>小笠原村</item>
+        <item>奥多摩町</item>
+        <item>清瀬市</item>
+        <item>国立市</item>
+        <item>神津島村</item>
+        <item>小金井市</item>
+        <item>国分寺市</item>
+        <item>小平市</item>
+        <item>狛江市</item>
+        <item>立川市</item>
+        <item>多摩市</item>
+        <item>調布市</item>
+        <item>利島村</item>
+        <item>新島村</item>
+        <item>西東京市</item>
+        <item>八王子市</item>
+        <item>八丈町</item>
+        <item>羽村市</item>
+        <item>東久留米市</item>
+        <item>東村山市</item>
+        <item>東大和市</item>
+        <item>日野市</item>
+        <item>日の出町</item>
+        <item>檜原村</item>
+        <item>府中市</item>
+        <item>福生市</item>
+        <item>町田市</item>
+        <item>御蔵島村</item>
+        <item>瑞穂町</item>
+        <item>三鷹市</item>
+        <item>三宅村</item>
+        <item>武蔵野市</item>
+        <item>武蔵村山市</item>
+
+    </string-array>
+
+
+    <string-array name="神奈川県">
+
+        <item>愛川町</item>
+        <item>厚木市</item>
+        <item>綾瀬市</item>
+        <item>伊勢原市</item>
+        <item>海老名市</item>
+        <item>大井町</item>
+        <item>大磯町</item>
+        <item>小田原市</item>
+        <item>開成町</item>
+        <item>鎌倉市</item>
+        <item>川崎市</item>
+        <item>清川村</item>
+        <item>相模原市</item>
+        <item>座間市</item>
+        <item>寒川町</item>
+        <item>逗子市</item>
+        <item>茅ケ崎市</item>
+        <item>中井町</item>
+        <item>二宮町</item>
+        <item>箱根町</item>
+        <item>秦野市</item>
+        <item>葉山町</item>
+        <item>平塚市</item>
+        <item>藤沢市</item>
+        <item>松田町</item>
+        <item>真鶴町</item>
+        <item>三浦市</item>
+        <item>南足柄市</item>
+        <item>山北町</item>
+        <item>大和市</item>
+        <item>湯河原町</item>
+        <item>横須賀市</item>
+        <item>横浜市</item>
+
+    </string-array>
+
+</resources>

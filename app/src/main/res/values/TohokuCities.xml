@@ -1,0 +1,270 @@
+<resources>
+
+    <string-array name = "青森県">
+
+        <item>青森市</item>
+        <item>鯵ヶ沢町</item>
+        <item>今別町</item>
+        <item>田舎館村</item>
+        <item>板柳町</item>
+        <item>大鰐町</item>
+        <item>大間町</item>
+        <item>おいらせ町</item>
+        <item>風間浦村</item>
+        <item>黒石市</item>
+        <item>五所川原市</item>
+        <item>五戸町</item>
+        <item>佐井村</item>
+        <item>三戸町</item>
+        <item>七戸町</item>
+        <item>新郷村</item>
+        <item>外ヶ浜町</item>
+        <item>田子町</item>
+        <item>つがる市</item>
+        <item>鶴田町</item>
+        <item>十和田市</item>
+        <item>東北町</item>
+        <item>中泊町</item>
+        <item>南部町</item>
+        <item>西目屋村</item>
+        <item>野辺地町</item>
+        <item>八戸市</item>
+        <item>階上町</item>
+        <item>弘前市</item>
+        <item>平川市</item>
+        <item>平内町</item>
+        <item>東通村</item>
+        <item>深浦町</item>
+        <item>篠崎町</item>
+        <item>三沢市</item>
+        <item>むつ市</item>
+        <item>蓬田村</item>
+        <item>横浜町</item>
+        <item>六戸町</item>
+        <item>六ヶ所村</item>
+
+    </string-array>
+
+    <string-array name = "岩手県">
+
+        <item>一関市</item>
+        <item>一戸町</item>
+        <item>岩泉町</item>
+        <item>岩手町</item>
+        <item>奥州市</item>
+        <item>大槌町</item>
+        <item>大船渡市</item>
+        <item>金ケ崎町</item>
+        <item>釜石市</item>
+        <item>軽米町</item>
+        <item>川井村</item>
+        <item>北上市</item>
+        <item>久慈市</item>
+        <item>葛巻町</item>
+        <item>九戸村</item>
+        <item>雫石町</item>
+        <item>紫波町</item>
+        <item>住田町</item>
+        <item>滝沢村</item>
+        <item>田野畑村</item>
+        <item>遠野市</item>
+        <item>西和賀町</item>
+        <item>二戸市</item>
+        <item>野田村</item>
+        <item>八幡平市</item>
+        <item>花巻市</item>
+        <item>平泉町</item>
+        <item>洋野町</item>
+        <item>藤沢町</item>
+        <item>普代村</item>
+        <item>宮古市</item>
+        <item>盛岡市</item>
+        <item>矢巾町</item>
+        <item>山田町</item>
+        <item>陸前高田市</item>
+
+    </string-array>
+
+
+
+
+    <string-array name = "宮城県">
+
+        <item>石巻市</item>
+        <item>岩沼市</item>
+        <item>大河原町</item>
+        <item>大崎市</item>
+        <item>大郷町</item>
+        <item>大衡村</item>
+        <item>女川町</item>
+        <item>角田市</item>
+        <item>加美町</item>
+        <item>川崎町</item>
+        <item>栗原市</item>
+        <item>気仙沼市</item>
+        <item>蔵王町</item>
+        <item>塩釜市</item>
+        <item>色麻町</item>
+        <item>七ケ宿町</item>、
+        <item>七ケ浜町</item>
+        <item>柴田町</item>
+        <item>白石市</item>
+        <item>仙台市</item>
+        <item>大和町</item>
+        <item>多賀城市</item>
+        <item>富谷市</item>
+        <item>登米市</item>
+        <item>名取市</item>
+        <item>東松島市</item>
+        <item>松島町</item>
+        <item>丸森町</item>
+        <item>美里町</item>
+        <item>南三陸町</item>
+        <item>村田町</item>
+        <item>山元町</item>
+        <item>利府町</item>
+        <item>涌谷町</item>
+        <item>亘理町</item>
+
+    </string-array>
+
+
+    <string-array name = "秋田県">
+
+
+        <item>秋田市</item>
+        <item>井川町</item>
+        <item>羽後町</item>
+        <item>大潟村</item>
+        <item>大館市</item>
+        <item>男鹿市</item>
+        <item>鹿角市</item>
+        <item>潟上市</item>
+        <item>上小阿仁村</item>
+        <item>北秋田市</item>
+        <item>小坂町</item>
+        <item>五城目町</item>
+        <item>仙北市</item>
+        <item>大仙市</item>
+        <item>にかほ市</item>
+        <item>能代市</item>
+        <item>八郎潟町</item>
+        <item>八峰町</item>
+        <item>東成瀬村</item>
+        <item>藤里町</item>
+        <item>美郷町</item>
+        <item>三種町</item>
+        <item>湯沢市</item>
+        <item>由利本荘市</item>
+        <item>横手市</item>
+
+    </string-array>
+
+
+    <string-array name = "山形県">
+
+
+        <item>朝日町</item>
+        <item>飯豊町</item>
+        <item>尾花沢市</item>
+        <item>大江町</item>
+        <item>大石田町</item>
+        <item>大蔵村</item>
+        <item>小国町</item>
+        <item>上山市</item>
+        <item>北町</item>
+        <item>金山町</item>
+        <item>川西町</item>
+        <item>酒田市</item>
+        <item>寒河江市</item>
+        <item>鮭川村</item>
+        <item>庄内町</item>
+        <item>新庄市</item>
+        <item>白鷹町</item>
+        <item>高畠町</item>
+        <item>鶴岡市</item>
+        <item>天童市</item>
+        <item>戸沢村</item>
+        <item>長井市</item>
+        <item>南陽市</item>
+        <item>中山町</item>
+        <item>西川町</item>
+        <item>東根市</item>
+        <item>舟形町</item>
+        <item>真室川町</item>
+        <item>三川町</item>
+        <item>村山市</item>
+        <item>最上町</item>
+        <item>山形市</item>
+        <item>山辺町</item>
+        <item>遊佐町</item>
+        <item>米沢市</item>
+
+    </string-array>
+
+
+    <string-array name = "福島県">
+
+
+        <item>会津坂下町</item>
+        <item>会津美里町</item>
+        <item>会津若松市</item>
+        <item>浅川町</item>
+        <item>飯舘村</item>
+        <item>石川町</item>
+        <item>泉崎村</item>
+        <item>猪苗代町</item>
+        <item>いわき市</item>
+        <item>大熊町</item>
+        <item>大玉村</item>
+        <item>小野町</item>
+        <item>鏡石町</item>
+        <item>葛尾村</item>
+        <item>金山町</item>
+        <item>川内村</item>
+        <item>川俣町</item>
+        <item>喜多方市</item>
+        <item>北塩原村</item>
+        <item>国見町</item>
+        <item>桑折町</item>
+        <item>郡山市</item>
+        <item>鮫川村</item>
+        <item>下郷町</item>
+        <item>昭和村</item>
+        <item>白河市</item>
+        <item>新地町</item>
+        <item>須賀川市</item>
+        <item>相馬市</item>
+        <item>只見町</item>
+        <item>伊達市</item>
+        <item>棚倉町</item>
+        <item>玉川村</item>
+        <item>田村市</item>
+        <item>天栄村</item>
+        <item>富岡町</item>
+        <item>中島村</item>
+        <item>浪江町</item>
+        <item>楢葉町</item>
+        <item>西会津町</item>
+        <item>西郷村</item>
+        <item>二本松市</item>
+        <item>塙町</item>
+        <item>磐梯町</item>
+        <item>檜枝岐村</item>
+        <item>平田村</item>
+        <item>広野町</item>
+        <item>福島市</item>
+        <item>双葉町</item>
+        <item>古殿町</item>
+        <item>三島町</item>
+        <item>南会津町</item>
+        <item>南相馬市</item>
+        <item>三春町</item>
+        <item>本宮市</item>
+        <item>柳津町</item>
+        <item>矢吹町</item>
+        <item>矢祭町</item>
+        <item>湯川村</item>
+
+    </string-array>
+</resources>

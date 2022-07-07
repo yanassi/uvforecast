@@ -1,0 +1,138 @@
+<resources>
+    
+    <string-array name="鳥取県">
+
+        <item>岩美町</item>
+        <item>倉吉市</item>
+        <item>江府町</item>
+        <item>琴浦町</item>
+        <item>境港市</item>
+        <item>大山町</item>
+        <item>智頭町</item>
+        <item>鳥取市</item>
+        <item>南部町</item>
+        <item>日南町</item>
+        <item>日吉津村</item>
+        <item>日野町</item>
+        <item>伯耆町</item>
+        <item>北栄町</item>
+        <item>三朝町</item>
+        <item>八頭町</item>
+        <item>湯梨浜町</item>
+        <item>米子市</item>
+        <item>若桜町</item>
+        
+    </string-array>
+    
+    
+    <string-array name="島根県">
+
+        <item>飯南町</item>
+        <item>海士町</item>
+        <item>出雲市</item>
+        <item>雲南市</item>
+        <item>大田市</item>
+        <item>邑南町</item>
+        <item>隠岐の島町</item>
+        <item>奥出雲町</item>
+        <item>川本町</item>
+        <item>江津市</item>
+        <item>知夫村</item>
+        <item>津和野町</item>
+        <item>西ノ島町</item>
+        <item>浜田市</item>
+        <item>益田市</item>
+        <item>松江市</item>
+        <item>美郷町</item>
+        <item>安来市</item>
+        <item>吉賀町</item>
+
+    </string-array>
+
+
+    <string-array name="岡山県">
+
+        <item>赤磐市</item>
+        <item>浅口市</item>
+        <item>井原市</item>
+        <item>岡山市</item>
+        <item>鏡野町</item>
+        <item>笠岡市</item>
+        <item>吉備中央町</item>
+        <item>久米南町</item>
+        <item>倉敷市</item>
+        <item>里庄町</item>
+        <item>勝央町</item>
+        <item>新庄村</item>
+        <item>瀬戸内市</item>
+        <item>総社市</item>
+        <item>高梁市</item>
+        <item>玉野市</item>
+        <item>津山市</item>
+        <item>奈義町</item>
+        <item>新見市</item>
+        <item>西粟倉村</item>
+        <item>早島町</item>
+        <item>備前市</item>
+        <item>真庭市</item>
+        <item>美咲町</item>
+        <item>美作市</item>
+        <item>矢掛町</item>
+        <item>和気町</item>
+
+    </string-array>
+
+
+    <string-array name="広島県">
+
+        <item>安芸太田町</item>
+        <item>安芸高田市</item>
+        <item>江田島市</item>
+        <item>大崎上島町</item>
+        <item>大竹市</item>
+        <item>尾道市</item>
+        <item>海田町</item>
+        <item>北広島町</item>
+        <item>熊野町</item>
+        <item>呉市</item>
+        <item>坂町</item>
+        <item>庄原市</item>
+        <item>神石高原町</item>
+        <item>世羅町</item>
+        <item>竹原市</item>
+        <item>廿日市市</item>
+        <item>東広島市</item>
+        <item>広島市</item>
+        <item>福山市</item>
+        <item>府中市</item>
+        <item>府中町</item>
+        <item>三原市</item>
+        <item>三次市</item>
+
+    </string-array>
+
+
+    <string-array name="山口県">
+
+        <item>阿武町</item>
+        <item>岩国市</item>
+        <item>宇部市</item>
+        <item>上関町</item>
+        <item>下松市</item>
+        <item>山陽小野田市</item>
+        <item>下関市</item>
+        <item>周南市</item>
+        <item>周防大島町</item>
+        <item>田布施町</item>
+        <item>長門市</item>
+        <item>萩市</item>
+        <item>光市</item>
+        <item>平生町</item>
+        <item>防府市</item>
+        <item>美祢市</item>
+        <item>柳井市</item>
+        <item>山口市</item>
+        <item>和木町</item>
+
+    </string-array>
+</resources>

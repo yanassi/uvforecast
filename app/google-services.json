@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79658915761",
+    "project_id": "uvforecast",
+    "storage_bucket": "uvforecast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79658915761:android:3b2b72825b86b58551cf90",
+        "android_client_info": {
+          "package_name": "com.websarva.wings.android.uvforecast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79658915761-ufa752oqfmen8q6p0gqjndkeba9qj3c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZpLS8bzC6qRDYkZBe3cLl6MIp7YOVPE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79658915761-ufa752oqfmen8q6p0gqjndkeba9qj3c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

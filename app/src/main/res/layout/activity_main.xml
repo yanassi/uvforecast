@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/skycolor"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/mainView"
+        android:layout_width="340dp"
+        android:layout_height="340dp"
+        android:background="@drawable/greengradation"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.3"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="現在のUV値"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/mainView"
+        app:layout_constraintEnd_toEndOf="@+id/mainView"
+        app:layout_constraintStart_toStartOf="@+id/mainView"
+        app:layout_constraintTop_toTopOf="@+id/mainView"
+        app:layout_constraintVertical_bias="0.16000003" />
+
+    <TextView
+        android:id="@+id/mainUVI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ー"
+        android:textColor="#ffffff"
+        android:textSize="130sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/mainView"
+        app:layout_constraintEnd_toEndOf="@+id/mainView"
+        app:layout_constraintStart_toStartOf="@+id/mainView"
+        app:layout_constraintTop_toTopOf="@+id/mainView" />
+
+    <TextView
+        android:id="@+id/risk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="危険度：ー"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/mainView"
+        app:layout_constraintEnd_toEndOf="@+id/mainView"
+        app:layout_constraintStart_toStartOf="@+id/mainView"
+        app:layout_constraintTop_toTopOf="@+id/mainView"
+        app:layout_constraintVertical_bias="0.85" />
+
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="地点未登録"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/mainView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.45" />
+
+    <Button
+        android:id="@+id/update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bt"
+        android:backgroundTint="#00000000"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:padding="1dp"
+        android:text="変更"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="@+id/location"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toEndOf="@+id/location"
+        app:layout_constraintTop_toTopOf="@+id/location" />
+
+    <TextView
+        android:id="@+id/mainTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ー/ー　ー：ー"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/mainView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/location" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/subListR"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainView"
+        app:layout_constraintVertical_bias="0.13999999" />
+
+    <Button
+        android:id="@+id/refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bt"
+        android:backgroundTint="#00000000"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:padding="1dp"
+        android:text="更新"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/mainTime"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.1"
+        app:layout_constraintStart_toEndOf="@+id/mainTime"
+        app:layout_constraintTop_toTopOf="@+id/mainTime" />
+
+    <TextView
+        android:id="@+id/underLine"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#ffffff"
+        app:layout_constraintTop_toBottomOf="@+id/subListR"
+        tools:layout_editor_absoluteX="93dp" />
+
+    <ImageView
+        android:id="@+id/weatherIcon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/sunny" />
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-5590600909655490/8883485665"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/subListR">
+
+    </com.google.android.gms.ads.AdView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

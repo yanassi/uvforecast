@@ -1,0 +1,323 @@
+<resources>
+
+    <string-array name="福岡県">
+
+        <item>赤村</item>
+        <item>朝倉市</item>
+        <item>芦屋町</item>
+        <item>飯塚市</item>
+        <item>糸島市</item>、
+        <item>糸田町</item>
+        <item>うきは市</item>
+        <item>宇美町</item>
+        <item>大川市</item>
+        <item>大木町</item>
+        <item>大任町</item>
+        <item>大野城市</item>
+        <item>大牟田市</item>
+        <item>岡垣町</item>
+        <item>小郡市</item>
+        <item>遠賀町</item>
+        <item>春日市</item>
+        <item>粕屋町</item>
+        <item>嘉麻市</item>
+        <item>川崎町</item>
+        <item>香春町</item>
+        <item>苅田町</item>
+        <item>北九州市</item>
+        <item>鞍手町</item>
+        <item>久留米市</item>
+        <item>桂川町</item>
+        <item>上毛町</item>
+        <item>古賀市</item>
+        <item>小竹町</item>
+        <item>篠栗町</item>
+        <item>志免町</item>
+        <item>新宮町</item>
+        <item>須恵町</item>
+        <item>添田町</item>
+        <item>田川市</item>
+        <item>太宰府市</item>
+        <item>大刀洗町</item>
+        <item>筑後市</item>
+        <item>筑紫野市</item>
+        <item>築上町</item>
+        <item>筑前町</item>
+        <item>東峰村</item>
+        <item>直方市</item>
+        <item>那珂川市</item>
+        <item>中間市</item>
+        <item>久山町</item>
+        <item>広川町</item>
+        <item>福岡市</item>
+        <item>福智町</item>
+        <item>福津市</item>
+        <item>豊前市</item>
+        <item>水巻町</item>
+        <item>みやこ町</item>
+        <item>みやま市</item>
+        <item>宮若市</item>
+        <item>宗像市</item>
+        <item>柳川市</item>
+        <item>八女市</item>
+        <item>行橋市</item>
+        <item>吉富町</item>
+
+    </string-array>
+
+
+    <string-array name="佐賀県">
+
+        <item>有田町</item>
+        <item>伊万里市</item>
+        <item>嬉野市</item>
+        <item>大町町</item>
+        <item>小城市</item>
+        <item>鹿島市</item>
+        <item>上峰町</item>
+        <item>唐津市</item>
+        <item>神埼市</item>
+        <item>基山町</item>
+        <item>玄海町</item>
+        <item>江北町</item>
+        <item>佐賀市</item>
+        <item>白石町</item>
+        <item>多久市</item>
+        <item>武雄市</item>
+        <item>太良町</item>
+        <item>鳥栖市</item>
+        <item>みやき町</item>
+        <item>吉野ヶ里町</item>
+
+    </string-array>
+
+
+    <string-array name="長崎県">
+
+        <item>壱岐市</item>
+        <item>諌早市</item>
+        <item>雲仙市</item>
+        <item>大村市</item>
+        <item>小値賀町</item>
+        <item>川棚町</item>
+        <item>五島市</item>
+        <item>西海市</item>
+        <item>佐々町</item>
+        <item>佐世保市</item>
+        <item>島原市</item>
+        <item>新上五島町</item>
+        <item>対馬市</item>
+        <item>時津町</item>
+        <item>長崎市</item>
+        <item>長与町</item>
+        <item>波佐見町</item>
+        <item>東彼杵町</item>
+        <item>平戸市</item>
+        <item>松浦市</item>
+        <item>南島原市</item>
+
+    </string-array>
+
+
+    <string-array name="熊本県">
+
+        <item>あさぎり町</item>
+        <item>芦北町</item>
+        <item>阿蘇市</item>
+        <item>天草市</item>
+        <item>荒尾市</item>
+        <item>五木村</item>
+        <item>宇城市</item>
+        <item>宇土市</item>
+        <item>産山村</item>
+        <item>大津町</item>
+        <item>小国町</item>
+        <item>嘉島町</item>
+        <item>上天草市</item>
+        <item>菊池市</item>
+        <item>菊陽町</item>
+        <item>玉東町</item>
+        <item>球磨村</item>
+        <item>熊本市</item>
+        <item>甲佐町</item>
+        <item>合志市</item>
+        <item>相良村</item>
+        <item>高森町</item>
+        <item>玉名市</item>
+        <item>多良木町</item>
+        <item>津奈木町</item>
+        <item>長洲町</item>
+        <item>和水町</item>
+        <item>南関町</item>
+        <item>錦町</item>
+        <item>西原村</item>
+        <item>氷川町</item>
+        <item>人吉市</item>
+        <item>益城町</item>
+        <item>美里町</item>
+        <item>水上村</item>
+        <item>水俣市</item>
+        <item>南阿蘇村</item>
+        <item>南小国町</item>
+        <item>御船町</item>
+        <item>八代市</item>
+        <item>山江村</item>
+        <item>山鹿市</item>
+        <item>山都町</item>
+        <item>湯前町</item>
+        <item>苓北町</item>
+
+    </string-array>
+
+
+    <string-array name="大分県">
+
+        <item>宇佐市</item>
+        <item>臼杵市</item>
+        <item>大分市</item>
+        <item>杵築市</item>
+        <item>玖珠町</item>
+        <item>国東市</item>
+        <item>九重町</item>
+        <item>佐伯市</item>
+        <item>竹田市</item>
+        <item>津久見市</item>
+        <item>中津市</item>
+        <item>日出町</item>
+        <item>日田市</item>
+        <item>姫島村</item>
+        <item>豊後大野市</item>
+        <item>豊後高田市</item>
+        <item>別府市</item>
+        <item>由布市</item>
+
+    </string-array>
+    
+    
+    <string-array name="宮崎県">
+
+        <item>綾町</item>
+        <item>えびの市</item>
+        <item>門川町</item>
+        <item>川南町</item>
+        <item>木城町</item>
+        <item>串間市</item>
+        <item>国富町</item>
+        <item>五ケ瀬町</item>
+        <item>小林市</item>
+        <item>西都市</item>
+        <item>椎葉村</item>
+        <item>新富町</item>
+        <item>高千穂町</item>
+        <item>高鍋町</item>
+        <item>高原町</item>
+        <item>都農町</item>
+        <item>西米良村</item>
+        <item>日南市</item>
+        <item>延岡市</item>
+        <item>日之影町</item>
+        <item>日向市</item>
+        <item>美郷町</item>
+        <item>三股町</item>
+        <item>都城市</item>
+        <item>宮崎市</item>
+        <item>諸塚村</item>
+
+    </string-array>
+
+
+    <string-array name="鹿児島県">
+
+        <item>姶良市</item>
+        <item>阿久根市</item>
+        <item>天城町</item>
+        <item>奄美市</item>
+        <item>伊佐市</item>
+        <item>出水市</item>
+        <item>伊仙町</item>
+        <item>いちき串木野市</item>
+        <item>指宿市</item>
+        <item>宇検村</item>
+        <item>大崎町</item>
+        <item>鹿児島市</item>
+        <item>鹿屋市</item>
+        <item>喜界町</item>
+        <item>肝付町</item>
+        <item>霧島市</item>
+        <item>錦江町</item>
+        <item>さつま町</item>
+        <item>薩摩川内市</item>
+        <item>志布志市</item>
+        <item>瀬戸内町</item>
+        <item>曽於市</item>
+        <item>龍郷町</item>
+        <item>垂水市</item>
+        <item>知名町</item>
+        <item>十島村</item>
+        <item>徳之島町</item>
+        <item>長島町</item>
+        <item>中種子町</item>
+        <item>西之表市</item>
+        <item>日置市</item>
+        <item>東串良町</item>
+        <item>枕崎市</item>
+        <item>南九州市</item>
+        <item>三島村</item>
+        <item>南大隅町</item>
+        <item>南さつま市</item>
+        <item>南種子町</item>
+        <item>大和村</item>
+        <item>湧水町</item>
+        <item>与論町</item>
+        <item>屋久島町</item>
+        <item>和泊町</item>
+
+    </string-array>
+
+
+    <string-array name="沖縄県">
+
+        <item>粟国村</item>
+        <item>伊江村</item>
+        <item>石垣市</item>
+        <item>伊是名村</item>
+        <item>糸満市</item>
+        <item>伊平屋村</item>
+        <item>浦添市</item>
+        <item>うるま市</item>
+        <item>大宜味村</item>
+        <item>沖縄市</item>
+        <item>恩納村</item>
+        <item>嘉手納町</item>
+        <item>北大東村</item>
+        <item>北中城村</item>
+        <item>宜野座村</item>
+        <item>宜野湾市</item>
+        <item>金武町</item>
+        <item>国頭村</item>
+        <item>久米島町</item>
+        <item>座間味村</item>
+        <item>竹富町</item>
+        <item>多良間村</item>
+        <item>北谷町</item>
+        <item>渡嘉敷村</item>
+        <item>渡名喜村</item>
+        <item>豊見城市</item>
+        <item>中城村</item>
+        <item>今帰仁村</item>
+        <item>名護市</item>
+        <item>那覇市</item>
+        <item>南城市</item>
+        <item>西原町</item>
+        <item>南風原町</item>
+        <item>東村</item>
+        <item>南大東村</item>
+        <item>宮古島市</item>
+        <item>本部町</item>
+        <item>八重瀬町</item>
+        <item>与那国町</item>
+        <item>与那原町</item>
+        <item>読谷村</item>
+
+    </string-array>
+</resources>

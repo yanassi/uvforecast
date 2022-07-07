@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">uvforecast</string>
+    <string name="dialog_title">エラー</string>
+    <string name="dialog_msg">接続がタイムアウトしました。\n電波の良い場所で更新ボタンを押してください。</string>
+    <string name="dialog_msg2">ネットワーク接続が不安定です。\n接続状態を確認し、更新ボタンを押してください。</string>
+    <string name="dialog_msg3">ネットワーク接続が不安定です。\n電波の良い場所でもう一度お試しください。</string>
+    <string name="dialog_msg4">地点の取得に失敗しました。\nしばらくして、電波の良い場所でもう一度お試しください。</string>
+    <string name="dialog_btn_ok">OK</string>
+
+    <string name="setting_title">設定</string>
+    <string name="setting_msg">紫外線を測定する地域を選択してください。</string>
+
+    <string name="toolbar_title">地域を選択</string>
+</resources>
